@@ -1,4 +1,4 @@
-# correlation-and-variation
+# Correlation and variance
 The main objectives of the project were to clean the data, explore relationships between variables, and identify patterns.
 
 Key steps in the project included:
